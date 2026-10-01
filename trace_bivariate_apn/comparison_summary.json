@@ -1,0 +1,74 @@
+{
+  "BBMM_fixed_primitive": {
+    "tables": 482,
+    "APN": 482,
+    "separated": 482,
+    "same_invariant": 0
+  },
+  "Bartoli_Stanica_G": {
+    "tables": 30,
+    "APN": 10,
+    "separated": 10,
+    "same_invariant": 0
+  },
+  "Bartoli_Stanica_H": {
+    "tables": 30,
+    "APN": 10,
+    "separated": 10,
+    "same_invariant": 0
+  },
+  "Budaghyan_Carlet_trace3": {
+    "tables": 6,
+    "APN": 6,
+    "separated": 6,
+    "same_invariant": 0
+  },
+  "CLV": {
+    "tables": 21,
+    "APN": 21,
+    "separated": 21,
+    "same_invariant": 0
+  },
+  "Cubic_plus_trace": {
+    "tables": 1,
+    "APN": 1,
+    "separated": 1,
+    "same_invariant": 0
+  },
+  "Cyclic_quadrivariate_uploaded": {
+    "tables": 2,
+    "APN": 2,
+    "separated": 2,
+    "same_invariant": 0
+  },
+  "Gold": {
+    "tables": 4,
+    "APN": 4,
+    "separated": 4,
+    "same_invariant": 0
+  },
+  "Gologlu_Kolsch_F4": {
+    "tables": 504,
+    "APN": 504,
+    "separated": 504,
+    "same_invariant": 0
+  },
+  "Taniguchi_normalized": {
+    "tables": 42,
+    "APN": 42,
+    "separated": 42,
+    "same_invariant": 0
+  },
+  "Trace_CLV": {
+    "tables": 21,
+    "APN": 21,
+    "separated": 0,
+    "same_invariant": 21
+  },
+  "Zhou_Pott_even_j": {
+    "tables": 252,
+    "APN": 252,
+    "separated": 252,
+    "same_invariant": 0
+  }
+}

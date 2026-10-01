@@ -1,0 +1,125 @@
+{
+  "dimension": 12,
+  "target_histogram": [
+    [
+      0,
+      10173780
+    ],
+    [
+      2,
+      5090166
+    ],
+    [
+      4,
+      1265283
+    ],
+    [
+      6,
+      213372
+    ],
+    [
+      8,
+      27441
+    ],
+    [
+      10,
+      2727
+    ],
+    [
+      12,
+      234
+    ],
+    [
+      14,
+      63
+    ],
+    [
+      16,
+      18
+    ],
+    [
+      18,
+      36
+    ]
+  ],
+  "engine": "invn_canonical.cpp",
+  "scope_notes": [
+    "BBMM covers all subfield v,w at one primitive u, not all primitive u.",
+    "Budaghyan-Carlet covers three cube classes for each of the two trace formulas.",
+    "Bartoli-Stanica formulas are evaluated at even base degree 4; no odd-degree theorem is invoked.",
+    "Gologlu F1,F2 have no admissible exponent at bivariate base degree 6.",
+    "The eight cyclic quadrivariate types and the six Gold-switching tables were not supplied; pending exact builders or tables."
+  ],
+  "entries": [
+    {
+      "family": "Cyclic_quadrivariate_uploaded",
+      "parameters": {
+        "i": 1
+      },
+      "field_degree": 3,
+      "field_modulus": 11,
+      "binary_encoding": "polynomial coefficients; packed coordinates least significant first",
+      "source": "Uploaded Quadrivariate_APN_family_CCZ(1).tex first-coordinate formula",
+      "table_sha256": "45f6afca8dacc888b29775155d36626b2d403594ff0c03941838768ad113ba75",
+      "algebraic_degree": 2,
+      "APN": true,
+      "ortho_histogram": [
+        [
+          0,
+          9832095
+        ],
+        [
+          2,
+          6220305
+        ],
+        [
+          6,
+          716625
+        ],
+        [
+          8,
+          4095
+        ]
+      ],
+      "comparison": "separated",
+      "engine_output": "APN=1 ods{0:9832095 2:6220305 6:716625 8:4095 } rad{0:2730 2:1365 }"
+    },
+    {
+      "family": "Cyclic_quadrivariate_uploaded",
+      "parameters": {
+        "i": 2
+      },
+      "field_degree": 3,
+      "field_modulus": 11,
+      "binary_encoding": "polynomial coefficients; packed coordinates least significant first",
+      "source": "Uploaded Quadrivariate_APN_family_CCZ(1).tex first-coordinate formula",
+      "table_sha256": "c3c291604fc43049e4e29e1346792a224470565f329ecec86b26ff05248ab3dd",
+      "algebraic_degree": 2,
+      "APN": true,
+      "ortho_histogram": [
+        [
+          0,
+          10077795
+        ],
+        [
+          2,
+          5225220
+        ],
+        [
+          4,
+          1253070
+        ],
+        [
+          6,
+          212940
+        ],
+        [
+          8,
+          4095
+        ]
+      ],
+      "comparison": "separated",
+      "engine_output": "APN=1 ods{0:10077795 2:5225220 4:1253070 6:212940 8:4095 } rad{0:2730 2:1365 }"
+    }
+  ]
+}

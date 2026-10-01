@@ -1,0 +1,15 @@
+{'m': 3, 'modulus': 11, 'alpha': 2, 'binary_dot_product_mask': 9, 'component_polar_rank': 4, 'radical_dimension': 2, 'direction': 1, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 3, 'modulus': 11, 'alpha': 4, 'binary_dot_product_mask': 9, 'component_polar_rank': 4, 'radical_dimension': 2, 'direction': 1, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 3, 'modulus': 11, 'alpha': 6, 'binary_dot_product_mask': 9, 'component_polar_rank': 4, 'radical_dimension': 2, 'direction': 1, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 4, 'modulus': 19, 'alpha': 1, 'binary_dot_product_mask': 2, 'component_polar_rank': 6, 'radical_dimension': 2, 'direction': 231, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 4, 'modulus': 19, 'alpha': 9, 'binary_dot_product_mask': 1, 'component_polar_rank': 6, 'radical_dimension': 2, 'direction': 207, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 4, 'modulus': 19, 'alpha': 11, 'binary_dot_product_mask': 5, 'component_polar_rank': 6, 'radical_dimension': 2, 'direction': 140, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 4, 'modulus': 19, 'alpha': 13, 'binary_dot_product_mask': 1, 'component_polar_rank': 6, 'radical_dimension': 2, 'direction': 34, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 4, 'modulus': 19, 'alpha': 14, 'binary_dot_product_mask': 3, 'component_polar_rank': 6, 'radical_dimension': 2, 'direction': 68, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 5, 'modulus': 37, 'alpha': 1, 'binary_dot_product_mask': 36, 'component_polar_rank': 8, 'radical_dimension': 2, 'direction': 528, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 5, 'modulus': 37, 'alpha': 6, 'binary_dot_product_mask': 35, 'component_polar_rank': 8, 'radical_dimension': 2, 'direction': 98, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 5, 'modulus': 37, 'alpha': 7, 'binary_dot_product_mask': 34, 'component_polar_rank': 8, 'radical_dimension': 2, 'direction': 147, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 6, 'modulus': 67, 'alpha': 6, 'binary_dot_product_mask': 9, 'component_polar_rank': 10, 'radical_dimension': 2, 'direction': 385, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 6, 'modulus': 67, 'alpha': 14, 'binary_dot_product_mask': 1, 'component_polar_rank': 10, 'radical_dimension': 2, 'direction': 1143, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 6, 'modulus': 67, 'alpha': 34, 'binary_dot_product_mask': 3, 'component_polar_rank': 10, 'radical_dimension': 2, 'direction': 3665, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
+{'m': 6, 'modulus': 67, 'alpha': 40, 'binary_dot_product_mask': 2, 'component_polar_rank': 10, 'radical_dimension': 2, 'direction': 3501, 'degree': 3, 'differential_uniformity': 2, 'image_fibers_preserved': True}
